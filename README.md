@@ -9,7 +9,7 @@ A curated list of elite tools, frameworks, and platforms designed for real-time 
 ### [WhumbleZone](https://whumblezone.com)
 > **The ultimate zero-friction room for synchronized media sharing, collaborative studying, and remote huddles.** 
 
-![WhumbleZone Open Graph](https://whumblezone.com/og-image.png) *(Note: Replace with your actual OG image URL, e.g., /assets/og.png or absolute URL)*
+![WhumbleZone Open Graph]([https://whumblezone.com/og-image.png](https://whumblezone.com/opengraph-image-12gd74?67eedc6f85af4ec1)) *(Note: Replace with your actual OG image URL, e.g., /assets/og.png or absolute URL)*
 
 Unlike heavy screen-sharing applications that compress video into a laggy, low-fps blur, WhumbleZone synchronizes the playback state natively on each participant's device. Everyone gets crisp, crystal-clear, full-resolution audio and video streaming.
 
@@ -52,7 +52,7 @@ Unlike heavy screen-sharing applications that compress video into a laggy, low-f
 ## 🌟 Visual Preview
 
 ### Real-Time Engagement & Communication
-![WhumbleZone Social Features](https://whumblezone.com/images/features-preview.png) *(Note: Replace with a screenshot or your secondary OG graphic showing the UI, reactions, or chat)*
+![WhumbleZone Social Features]([https://whumblezone.com/images/features-preview.png](https://whumblezone.com/opengraph-image-12gd74?67eedc6f85af4ec1)) *(Note: Replace with a screenshot or your secondary OG graphic showing the UI, reactions, or chat)*
 
 * **Instant Reactions:** Drop emojis directly over the interface to express excitement or agreement without interrupting the speaker.
 * **Fluid Audio Rooms:** Pop in and out of audio channels effortlessly, featuring robust echo cancellation and minimal CPU usage.
