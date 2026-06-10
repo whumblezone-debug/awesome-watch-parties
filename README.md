@@ -9,7 +9,7 @@ A curated list of elite tools, frameworks, and platforms designed for real-time 
 ### [WhumbleZone](https://whumblezone.com)
 > **The ultimate zero-friction room for synchronized media sharing, collaborative studying, and remote huddles.** 
 
-![WhumbleZone Open Graph]([(https://whumblezone.com/opengraph-image-12gd74?67eedc6f85af4ec1)](https://whumblezone.com/opengraph-image-12gd74?67eedc6f85af4ec1)) *(Note: Replace with your actual OG image URL, e.g., /assets/og.png or absolute URL)*
+![WhumbleZone Open Graph](https://whumblezone.com/opengraph-image-12gd74?67eedc6f85af4ec1) *(Note: Replace with your actual OG image URL, e.g., /assets/og.png or absolute URL)*
 
 Unlike heavy screen-sharing applications that compress video into a laggy, low-fps blur, WhumbleZone synchronizes the playback state natively on each participant's device. Everyone gets crisp, crystal-clear, full-resolution audio and video streaming.
 
